@@ -2,7 +2,7 @@
 
 - 🔭 Hoje em dia eu foco no Front-End
 - 🌱 Estudo diversas linguagens e na parte de Game Maker
-- 📫 Caso queira entrar em contato me chame : danieldiaspycode@gmail.com
+- 📫 Caso queira entrar em contato me chame : danieldiasof@gmail.com
 - 💼 A procura de um trabalho na área
 - ☕ Amo café...
 
