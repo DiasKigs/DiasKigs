@@ -1,7 +1,7 @@
 ### Opa! bem vindo ao meu perfil 🙂
 
-- 🔭 Hoje em dia eu foco no Front-End
-- 🌱 Estudo diversas linguagens e na parte de Game Maker
+- 🔭 Amo CSharp
+- 🌱 Estudo outras linguagens 
 - 📫 Caso queira entrar em contato me chame : danieldiasof@gmail.com
 - 💼 A procura de um trabalho na área
 - ☕ Amo café...
@@ -10,7 +10,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-CSharp" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
                  
