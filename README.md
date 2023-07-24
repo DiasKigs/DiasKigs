@@ -5,8 +5,7 @@
 - 📫 Caso queira entrar em contato me chame : danieldiasof@gmail.com
 - 💼 A procura de um trabalho na área
 - ☕ Amo café...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-VS" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img align="center" alt="Rafa-VScode" height="30" width="40" 
@@ -19,6 +18,7 @@
   <img align="center" alt="Rafa-Lua" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
       
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
                  
 </div>
