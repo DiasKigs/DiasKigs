@@ -1,7 +1,5 @@
 ### Opa! bem vindo ao meu perfil 🙂
 
-- 🔭 Amo CSharp
-- 🌱 Estudo outras linguagens 
 - 📫 Caso queira entrar em contato me chame : danieldiasof@gmail.com
 - 💼 A procura de um trabalho na área
 - ☕ Amo café...
